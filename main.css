@@ -1,7 +1,7 @@
 .container{
-    width: 600px;
-    height: 600px;
-    margin: 7px;
+    width: 540px;
+    height: 550px;
+    margin: 33px;
     padding: 10px;
     border: 2px solid black;
     background: #fff;
@@ -15,6 +15,17 @@
     font-size: 16px;
     position: relative;
 }
+img {
+    height: 115px;
+    width: 115px;
+    margin: 2px;
+}
 
-
-
+.card {
+    height: 125px;
+    width: 125px;
+    cursor: pointer;
+    margin: 4px;
+    border: 1px solid black;
+    display: inline-block;
+}
